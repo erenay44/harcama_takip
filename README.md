@@ -2,8 +2,8 @@
 
 Günlük harcamaları kaydetmeye, kategorilere göre takip etmeye ve toplam tutarı görmeye yarayan basit bir web uygulaması. Veriler tarayıcının **LocalStorage** alanında saklanır, sayfa yenilense de kaybolmaz.
 
-🔗 **Canlı link:** (Netlify/Vercel linkini buraya yapıştır)
-📂 **GitHub:** (depo linkini buraya yapıştır)
+🔗 **Canlı link:** https://harcama-takip-iota.vercel.app
+📂 **GitHub:** https://github.com/erenay44/harcama_takip.git
 
 ![Ekran görüntüsü](docs/ekran-goruntusu.png)
 

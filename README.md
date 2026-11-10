@@ -1,4 +1,4 @@
-# 💰 Harcama Takip
+# Harcama Takip
 
 Günlük harcamaları kaydetmeye, kategorilere göre takip etmeye ve toplam tutarı görmeye yarayan basit bir web uygulaması. Veriler tarayıcının **LocalStorage** alanında saklanır, sayfa yenilense de kaybolmaz.
 

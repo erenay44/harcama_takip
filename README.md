@@ -24,7 +24,7 @@ Günlük harcamaları kaydetmeye, kategorilere göre takip etmeye ve toplam tuta
 
 ## Kurulum
 ```bash
-git clone <depo-linki>
+git clone <https://github.com/erenay44/harcama_takip.git>
 cd harcama-takip
 npm install
 npm run dev      # geliştirme sunucusu (http://localhost:5173)

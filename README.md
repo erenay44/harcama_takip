@@ -44,21 +44,3 @@ src/
 └── styles.css
 ```
 
-## Yapay Zekanın Kullanımı
-Bu projede **Claude** (Anthropic) yapay zeka asistanı kullanıldı.
-
-| Aşama | Yapay zekadan alınan yardım |
-|---|---|
-| Planlama | Uygulama fikri, ekranlar ve veri modeli (`{id, title, amount, category, date}`) birlikte planlandı |
-| Geliştirme | Bileşenlerin (form, tablo, özet kartı) ve `useLocalStorage` hook'unun ilk taslağı üretildi |
-| Test ve hata ayıklama | Eksik girişte uyarı, sayfa yenileme sonrası veri kalıcılığı ve filtre davranışı kontrol edildi |
-| Dokümantasyon | Bu README taslağı hazırlandı |
-
-**Örnek istem:** "React (Vite) ile harcama ekleme formu ve altında harcama tablosu tasarla. Kategorilere renkli rozetler ver, üstte toplam tutarı gösteren bir özet kartı olsun. Veriler LocalStorage'da saklansın."
-
-Üretilen kod okunup anlaşıldı, çalıştırılarak test edildi.
-
-## Olası Geliştirmeler
-- Harcama düzenleme
-- Aylık grafik
-- Dışa aktarma (CSV)
